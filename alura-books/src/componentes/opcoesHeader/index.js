@@ -1,4 +1,6 @@
-import './componentes/opcoesHeader/estilos.css'
+import './estilos.css'
+
+const textoOpcoes = ['CATEGORIAS', 'FAVORITOS', 'MINHA ESTANTE']
 
 function OpcoesHeader() {
   return (
