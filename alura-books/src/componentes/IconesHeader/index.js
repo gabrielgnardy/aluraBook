@@ -11,7 +11,6 @@ const IconesContainer = styled.ul`
 const IconeContainer = styled.li`
     margin-right: 40px;
     width: 25px;
-    list-style: none;
 `
 
 function IconesHeader() {
